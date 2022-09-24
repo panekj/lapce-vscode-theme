@@ -1,0 +1,9 @@
+author = "panekj"
+description = "Default dark/light theme used in VS Code"
+display-name = "VS Code"
+name = "vscode-theme"
+theme = [
+  "Dark+.toml",
+  "Light+.toml",
+]
+version = "1.0.0"
