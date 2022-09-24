@@ -115,7 +115,7 @@ variable = "#001080"
 "terminal.yellow" = "#e5e510"
 
 [ui]
-font-family = "system-ui"
+font-family = ""
 font-size = 12
 header-height = 35
 status-height = 25
