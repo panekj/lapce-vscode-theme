@@ -1,9 +1,9 @@
 author = "panekj"
-description = "Default dark/light theme used in VS Code"
-display-name = "VS Code"
-name = "vscode-theme"
+description = "Themes based on VS Code default looks"
+display-name = "Visual Studio Code"
+name = "lapce-vscode-theme"
+version = "0.0.0"
 theme = [
   "Dark+.toml",
   "Light+.toml",
 ]
-version = "1.0.0"
