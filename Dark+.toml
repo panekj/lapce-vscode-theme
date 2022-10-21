@@ -1,7 +1,8 @@
-[theme]
+[color-theme]
 name = "Dark+"
+color-preference = "dark"
 
-[theme.base]
+[color-theme.base]
 white = ""
 black = ""
 grey = ""
@@ -14,7 +15,7 @@ purple = ""
 cyan = ""
 magenta = ""
 
-[theme.syntax]
+[color-theme.syntax]
 attribute = "#9CDCFE"
 builtinType = "#4EC9B0"
 comment = "#6A9955"
@@ -51,7 +52,7 @@ typeAlias = "#4ec9b0"
 variable = "#9cdcfe"
 "variable.other.member" = "#9cdcfe"
 
-[theme.ui]
+[color-theme.ui]
 "activity.background" = "#303031"
 "activity.current" = ""
 "completion.background" = "#1e1e1e"

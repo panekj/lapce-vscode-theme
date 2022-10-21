@@ -3,7 +3,7 @@ description = "Themes based on VS Code default looks"
 display-name = "Visual Studio Code"
 name = "lapce-vscode-theme"
 version = "0.0.0"
-theme = [
+color-themes = [
   "Dark+.toml",
   "Light+.toml",
 ]
